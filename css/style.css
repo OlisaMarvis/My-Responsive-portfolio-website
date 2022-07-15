@@ -430,7 +430,7 @@ img{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
 }
-.skills_bar, .skills_percentage{
+/* .skills_bar, .skills_percentage{
     height: 5px;
     border-radius: .25rem;
 }
@@ -440,9 +440,9 @@ img{
 .skills_percentage{
     display: block;
     background-color: var(--first-color);
-}
+} */
 
-.skills_html{
+/* .skills_html{
     width: 90%;
 }
 .skills_css{
@@ -476,7 +476,7 @@ img{
 }
 .skills_photoshop{
     width: 30%;
-}
+} */
 
 .skills_close .skills_list{
     height: 0;
